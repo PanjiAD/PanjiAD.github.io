@@ -236,7 +236,7 @@ body{
 .activity{
     margin-bottom: 40px;
 }
-  
+
 .activity .logo img{
     display: block;
     width: 70%;
@@ -263,36 +263,36 @@ body{
 
   /* Education Section */
 
-  #pills-education{
-      width: 100%;
-  }
+#pills-education{
+    width: 100%;
+}
 
-  #pills-education .listEdu{
-      height: 410px;
-      overflow-y: scroll;
-  }
+#pills-education .listEdu{
+    height: 410px;
+    overflow-y: scroll;
+}
 
- .card:not(:last-child){
-     margin-bottom:20px;
-     margin-top: 10px;
-  }
+.card:not(:last-child){
+    margin-bottom:20px;
+    margin-top: 10px;
+}
 
-  .card .card-body .logo img{
-      display: block;
-      width: 70%;
-      margin: 0 auto;
-      padding: 0px;
-  }
+.card .card-body .logo img{
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+    padding: 0px;
+}
 
-  .card .card-body .logo{
+.card .card-body .logo{
     border-right: #a8a8a8 solid 2px;
 }
 
-  .card .card-body .tahunStudy{
+.card .card-body .tahunStudy{
     position: static;
     margin: auto;
     font-size: 20px;
-  }
+}
 
 /* Skill Section */
 
@@ -310,43 +310,44 @@ body{
     margin-bottom:20px;
 }
 
-  .sisi-kiri .namaSkill{
-      font-family: dyuthi;
-      font-size:30px;
-  }
+.sisi-kiri .namaSkill{
+    font-family: dyuthi;
+    font-size:30px;
+}
 
-  .sisi-kiri p{
+.sisi-kiri p{
     font: 14px Lato;
     font-style: hirelie;
     line-height: 1.3;
     letter-spacing: 1px;
     margin-top: 10px; 
     margin-right: 20px;
-  }
-  .sisi-kanan .overlay img{
-      display: block;
+}
+.sisi-kanan .overlay img{
+    display: block;
       /* width: 70%; */
-      margin: auto;
-    }
+    margin: auto;
+}
 
-  .sisi-kanan .namaSkill{
-      font-family: dyuthi;
-      font-size:30px;
-  }
+.sisi-kanan .namaSkill{
+    font-family: dyuthi;
+    font-size:30px;
+}
 
-  .sisi-kanan p{
+.sisi-kanan p{
     font: 14px Lato;
     font-style: hirelie;
     line-height: 1.3;
     letter-spacing: 1px;
     margin-top: 10px; 
     margin-right: 20px;
-  }
-  .sisi-kiri .overlay img{
-      display: block;
-      width: 65%;
-      margin: auto;
-    }
+}
+
+.sisi-kiri .overlay img{
+    display: block;
+    width: 65%;
+    margin: auto;
+}
 
 /* Interest Section */
 
@@ -373,28 +374,28 @@ body{
 
  /* Navigation */
 
- .nav-pills{
-     position: relative;
-     margin-top: 100px;
- }
+.nav-pills{
+    position: relative;
+    margin-top: 100px;
+}
 
 .nav-link{
     position: static;
-     margin-left: 10px;
-     color: #1b1b1b;
-     transition: 0.3s ease;
-     font-weight: 600;
-     margin-bottom: 10px;
- }
+    margin-left: 10px;
+    color: #1b1b1b;
+    transition: 0.3s ease;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
 
- .nav-link:hover{
-     color: rgb(29, 29, 29);
-     background-color: rgb(202, 217, 228);
-     transition: 0.3s ease;
-     position: static;
-     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
- }
+.nav-link:hover{
+    color: rgb(29, 29, 29);
+    background-color: rgb(202, 217, 228);
+    transition: 0.3s ease;
+    position: static;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
 
- .nav-link.active{
+.nav-link.active{
     font-weight: 1000;
- }
+}
